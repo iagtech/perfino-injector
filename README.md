@@ -1,4 +1,4 @@
-# IAG Benefits, LLC Maintenane Container (iagllctech/perfino-injector)
+# IAG Benefits, LLC Perfino Injector (iagllctech/perfino-injector)
 
 A docker image that will copy the perfino agent libraries to the `/perfino` folder on boot.
 
